@@ -4,38 +4,15 @@
 
 Cybersecurity professional focused on **Offensive Security**, with hands-on experience in penetration testing and a growing focus on **Application Security**.
 
-## 🔴 Offensive Security
+## 📂 Portfolio
 
-- Web & API Penetration Testing
-- Infrastructure Security
-- Active Directory
-- Reconnaissance & Enumeration
-- Vulnerability Assessment
-- Post-Exploitation
-
-## 🟣 Application Security
-
-- OWASP
-- Web & API Security
-- Secure Coding & Code Review
-- Threat Modeling
-- SAST / SCA / DAST
-- DevSecOps
-
-## 🐍 Security Automation
-
-- Python
-- Bash
-- PowerShell
-- JavaScript
-- SQL
-
-## 🕵️ Intelligence
-
-- OSINT
-- Cyber Threat Intelligence
-- MITRE ATT&CK
-- Threat Research
+| Area | Repository | Purpose |
+|---|---|---|
+| 📚 Learning | `cybersecurity-learning` | Study notes, labs, cheatsheets and write-ups |
+| 🐍 Automation | `security-automation` | Security tooling and automation |
+| 🔴 AD | `active-directory-security-lab` | Active Directory security labs |
+| 🟣 AppSec | `appsec-lab` | Application Security flagship project |
+| 🕵️ CTI | `cyber-threat-intelligence` | OSINT and threat research |
 
 ## 🚀 Featured Projects
 
